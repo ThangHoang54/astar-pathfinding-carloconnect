@@ -24,7 +24,7 @@ A simulation where an agent (The Survivor) must navigate through a dark forest t
 ### Usage & Controls
 Run the pathfinding simulation:
 ```bash
-cd .\A-PATHFINDING-CARLOCONNENT\src\Part1-PathFinding
+cd .\astar-pathfinding-carloconnect\src\Part1-PathFinding
 python main.py
 ```
 
@@ -56,7 +56,7 @@ A Connect 4 implementation featuring an AI agent capable of probabilistic decisi
 ### Usage & Controls
 Run the pathfinding simulation:
 ```bash
-cd .\A-PATHFINDING-CARLOCONNENT\src\Part2-MCTS
+cd .\astar-pathfinding-carloconnect\src\Part2-MCTS
 python main.py
 ```
 **Game Modes**
@@ -114,7 +114,7 @@ Ensure you have Python installed. This project requires pygame.
 
 1. Clone the repository.
 ```bash
-git clone https://github.com/ThangHoang54/A-Pathfinding-CarloConnect.git
+git clone https://github.com/ThangHoang54/astar-pathfinding-carloconnect.git
 ```
 2. Install dependencies:
 
